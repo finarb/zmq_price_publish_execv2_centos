@@ -1,0 +1,14 @@
+SubscribeInstrumentsL1 OK. Hit <ENTER> to stop
+response_QUOTATION_SubscribeInstrumentsL1_Started,l361 : Zmq publisher URL 'tcp://*:7000'
+response_QUOTATION_SubscribeInstrumentsL1_Started, l364 : PUBLISHER Ready 
+11instr: Xcta@SPY
+	DailyTotalVolumeTraded=59120804
+	DailyTotalAssetTraded=16421187191.2456
+	TradingStatus=NotAvailableForTrading
+SubscribeInstrumentsL1 OK. Hit <ENTER> to stop
+response_QUOTATION_SubscribeInstrumentsL1_Started,l361 : Zmq publisher URL 'tcp://*:7000'
+response_QUOTATION_SubscribeInstrumentsL1_Started, l364 : PUBLISHER Ready 
+11instr: Xcta@SPY
+	DailyTotalVolumeTraded=59120804
+	DailyTotalAssetTraded=16421187191.2456
+	TradingStatus=NotAvailableForTrading
